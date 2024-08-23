@@ -47,4 +47,10 @@
   .link:hover {
     text-decoration: underline;
   }
-  
+
+.projectGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
